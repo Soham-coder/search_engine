@@ -9,11 +9,11 @@
 
 The aim of this project is to build a prototype of a search engine which will work on millions of wikipedia pages (which are in xml format) and retrieve the top 10 relevant Wikipedia documents that matches the input query of user. This takes Wikipedia corpus in XML format which is available at Wikipedia.org as input. Then it indices millions of Wikipedia pages involving a comparable number of distinct terms. Given a query, it retrieves relevant ranked documents and their titles using index. This project uses OOPs concepts.
 ```
-####### Future Possible Goals
+###### Future Possible Goals
 
     - Information about index files and the final treemap data structure is ready. 
     - We can rank the documents based on this parameter when user types a query i.e., the backend part is implemented.
-    - Next one can go for implementing the GUI for this search engine i.e., the frontend part.
+    - Next, one can go for implementing the GUI for this search engine i.e., the frontend part.
 
 
 
@@ -150,5 +150,5 @@ The aim of this project is to build a prototype of a search engine which will wo
 </details>
 
 
-### Papier presentation
+### Seminar presentation
 [Ppt](SeminarPresentation6920.pptx)
