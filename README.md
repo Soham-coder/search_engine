@@ -17,7 +17,7 @@ The aim of this project is to build a prototype of a search engine which will wo
 
 
 
-### Directory structure
+##### Directory structure
 
 <details><summary><tt> Directory structure </tt></summary>
 <p>
@@ -150,5 +150,5 @@ The aim of this project is to build a prototype of a search engine which will wo
 </details>
 
 
-### Seminar presentation
+##### Seminar presentation
 [Ppt](SeminarPresentation6920.pptx)
