@@ -7,7 +7,9 @@
 ```diff
 @@ Aim—@@
 
-The aim of this project is to build a prototype of a search engine which will work on millions of wikipedia pages (which are in xml format) and retrieve the top 10 relevant Wikipedia documents that matches the input query of user. This takes Wikipedia corpus in XML format which is available at Wikipedia.org as input. Then it indices millions of Wikipedia pages involving a comparable number of distinct terms. Given a query, it retrieves relevant ranked documents and their titles using index. This project uses OOPs concepts.
+The aim of this project is to build a prototype of a search engine which will work on millions of wikipedia pages (which are in xml format) and retrieve the top 10 relevant Wikipedia documents that matches the input query of user. This takes Wikipedia corpus in XML format which is available at Wikipedia.org as input. Then it indices millions of Wikipedia pages involving a comparable number of distinct terms. Given a query, it retrieves relevant ranked documents and their titles using index.
+
+This project uses OOPs concepts.
 ```
 ###### Future Possible Goals
 
