@@ -153,4 +153,4 @@ This project uses OOPs concepts.
 
 
 ##### Seminar presentation
-[Ppt](SeminarPresentation6920.pptx)
+[Ppt](https://www.slideshare.net/slideshow/text-based-search-engine-on-a-fixed-corpus-and-utilizing-indexation-and-ranking-algorithms/267562714)
