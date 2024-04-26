@@ -145,7 +145,7 @@ This project uses OOPs concepts.
            - [allWords.txt](SearchEngine/src/main/output/allWords.txt)
          - __resources__
            - [stopwords.txt](SearchEngine/src/main/resources/stopwords.txt)
-   - [SeminarPresentation6920.pptx](SeminarPresentation6920.pptx)
+   - [SeminarPresentation6920.pptx](https://www.slideshare.net/slideshow/text-based-search-engine-on-a-fixed-corpus-and-utilizing-indexation-and-ranking-algorithms/267562714)
 
 
 </p>
